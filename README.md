@@ -26,7 +26,7 @@ Soy un apasionado de la **ciencia de datos** y la **programación**, con un enfo
 ---
 
 ### 🔗 **Encuentra más sobre mí**
-- 💼 [LinkedIn](https://www.linkedin.com/in/hebert-jossue-toledo-valdovinos-data-scientist/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hebert-ds/)
 - 📂 [Portafolio](https://github.com/HebertL-dev)
 - 🚀 [Proyectos destacados en GitHub](https://github.com/HebertL-dev?tab=repositories)
 
