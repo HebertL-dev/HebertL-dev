@@ -25,12 +25,5 @@ Soy un apasionado de la **ciencia de datos** y la **programación**, con un enfo
 
 ---
 
-### 🎯 **Gadgets Interactivos**
-
-- **👁️ Visitas a mi perfil:**  
-![Contador de visitas](https://komarev.com/ghpvc/?username=HebertL-dev&color=blue)
-
----
-
 ### 🌟 **¡Hablemos de datos!**
 Si estás interesado en colaborar o tienes alguna idea emocionante, no dudes en contactarme. 😊
