@@ -1,4 +1,6 @@
-# 👋 Hola, soy **Hebert** 👨‍💻 
+# 👋 Hola, soy **Hebert** 👨‍💻
+
+![Portada de Hebert](https://github.com/HebertL-dev/HebertL-dev/blob/main/portada.png)
 
 ### 🌟 Sobre mí
 Soy un apasionado de la **ciencia de datos** y la **programación**, con un enfoque en resolver problemas complejos mediante el análisis predictivo y la visualización de datos. Siempre estoy explorando nuevas herramientas y conocimientos para mantenerme actualizado.
@@ -19,9 +21,9 @@ Soy un apasionado de la **ciencia de datos** y la **programación**, con un enfo
 ---
 
 ### 🔗 **Encuentra más sobre mí**
-- 💼 [LinkedIn](https://www.linkedin.com/in/hebert)  
-- 📂 [Portafolio](https://github.com/HebertL-dev)  
-- 🚀 [Proyectos destacados en GitHub](https://github.com/HebertL-dev?tab=repositories)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/hebert-jossue-toledo-valdovinos-data-scientist/)
+- 📂 [Portafolio](https://github.com/HebertL-dev)
+- 🚀 [Proyectos destacados en GitHub](https://github.com/HebertL-dev?tab=repositories)
 
 ---
 
