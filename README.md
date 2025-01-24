@@ -8,8 +8,13 @@ Soy un apasionado de la **ciencia de datos** y la **programación**, con un enfo
 ---
 
 ### 🛠️ **Habilidades Técnicas**
-- 💻 **Lenguajes:** Python 🐍, SQL 🛢️  
-- 📈 **Tecnologías:** Machine Learning 🤖, Análisis Predictivo 📊, Visualización de Datos 📉  
+- 💻 **Lenguajes:**
+  - ![Python](https://img.icons8.com/color/48/000000/python.png) Python
+  - ![SQL](https://img.icons8.com/color/48/000000/sql.png) SQL
+- 📈 **Tecnologías:**
+  - ![Machine Learning](https://img.icons8.com/color/48/000000/artificial-intelligence.png) Machine Learning
+  - ![Data Analysis](https://img.icons8.com/color/48/000000/statistics.png) Análisis de Datos
+  - ![Visualización de Datos](https://img.icons8.com/color/48/000000/graph.png) Visualización de Datos  
 - 🚀 **Intereses:** Automatización y optimización de procesos basados en datos.
 
 ---
