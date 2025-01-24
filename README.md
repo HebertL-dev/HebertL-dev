@@ -30,12 +30,6 @@ Soy un apasionado de la **ciencia de datos** y la **programación**, con un enfo
 - **👁️ Visitas a mi perfil:**  
 ![Contador de visitas](https://komarev.com/ghpvc/?username=HebertL-dev&color=blue)
 
-- **⌚ Reloj en vivo:**  
-![Reloj en vivo](https://github.com/HebertL-dev/HebertL-dev/blob/output/github-contribution-grid-snake.svg)
-
-- **🐍 Mi actividad en GitHub:**  
-![Snake animation](https://github.com/HebertL-dev/HebertL-dev/raw/output/github-contribution-grid-snake.svg)
-
 ---
 
 ### 🌟 **¡Hablemos de datos!**
