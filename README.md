@@ -1,7 +1,5 @@
 # 👋 Hola, soy **Hebert** 👨‍💻
 
-![Portada de Hebert](https://github.com/HebertL-dev/HebertL-dev/blob/main/portada.png)
-
 ### 🌟 Sobre mí
 Soy un apasionado de la **ciencia de datos** y la **programación**, con un enfoque en resolver problemas complejos mediante el análisis predictivo y la visualización de datos. Siempre estoy explorando nuevas herramientas y conocimientos para mantenerme actualizado.
 
