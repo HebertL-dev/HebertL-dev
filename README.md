@@ -16,16 +16,12 @@ Soy un apasionado de la **ciencia de datos** y la **programación**, con un enfo
 - ![Pandas](https://img.icons8.com/color/48/000000/pandas.png) **Pandas**
 - ![Matplotlib](https://img.icons8.com/color/48/000000/matplotlib.png) **Matplotlib**
 - ![Seaborn](https://img.icons8.com/color/48/000000/seaborn.png) **Seaborn**
-- ![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png) **Tableau**
 
 ### 🤖 **Machine Learning**
 - ![Scikit-Learn](https://img.icons8.com/color/48/000000/scikit-learn.png) **Scikit-Learn**
-- ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png) **TensorFlow**
-- ![Keras](https://img.icons8.com/color/48/000000/keras.png) **Keras**
 
 ### 🛠️ **Otras Herramientas**
 - ![Git](https://img.icons8.com/color/48/000000/git.png) **Git**
-- ![Docker](https://img.icons8.com/color/48/000000/docker.png) **Docker**
 - ![Jupyter](https://img.icons8.com/color/48/000000/jupyter.png) **Jupyter Notebook**
 
 ---
@@ -34,7 +30,7 @@ Soy un apasionado de la **ciencia de datos** y la **programación**, con un enfo
 
 ### 1. **Blackjack en Python** 🎲
 - Un juego clásico de Blackjack implementado en Python.
-- [Repositorio](https://github.com/HebertL-dev/blackjack-python)
+- [Repositorio](https://github.com/HebertL-dev/BlackJack-Game)
 
 ### 2. **Análisis de Datos de Ventas** 📈
 - Análisis exploratorio y visualización de datos de ventas utilizando Python y Tableau.
