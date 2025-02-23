@@ -28,17 +28,20 @@ Soy un apasionado de la **ciencia de datos** y la **programación**, con un enfo
 
 ## 🚀 **Proyectos Destacados**
 
-### 1. **Blackjack en Python** 🎲
-- Un juego clásico de Blackjack implementado en Python.
-- [Repositorio](https://github.com/HebertL-dev/BlackJack-Game)
+### 1. **Megaline - Recomendación de Planes Móviles** 📡  
+- Desarrollo de un modelo de *machine learning* para recomendar el plan más adecuado entre dos opciones de planes móviles: Smart y Ultra.  
+- [Repositorio](https://github.com/HebertL-dev/Megaline_Recomendacion-de-Planes-Moviles)  
 
-### 2. **Análisis de Datos de Ventas** 📈
-- Análisis exploratorio y visualización de datos de ventas utilizando Python y Tableau.
-- [Repositorio](https://github.com/HebertL-dev/sales-data-analysis)
 
-### 3. **Predicción de Precios de Viviendas** 🏠
-- Modelo de regresión para predecir precios de viviendas utilizando Scikit-Learn.
-- [Repositorio](https://github.com/HebertL-dev/house-price-prediction)
+### 2. **Sure Tomorrow - Machine Learning en Seguros** 🔐  
+- Proyecto de machine learning para la identificación de clientes y predicción de beneficios de seguro, incluyendo técnicas de enmascaramiento de datos.  
+- [Repositorio](https://github.com/HebertL-dev/Sure-Tomorrow_Machine-Learning-en-Seguros-)  
+
+
+### 3. **Rusty Bargain - Car Price Prediction Model** 🚗  
+- Modelo de *machine learning* para predecir el valor de mercado de autos de segunda mano, basado en características como especificaciones del vehículo, kilometraje, marca y más.  
+- [Repositorio](https://github.com/HebertL-dev/RustyBargain)  
+
 
 ---
 
