@@ -10,7 +10,6 @@ Soy un apasionado de la **ciencia de datos** y la **programación**, con un enfo
 ### 💻 **Lenguajes de Programación**
 - ![Python](https://img.icons8.com/color/48/000000/python.png) **Python**
 - ![SQL](https://img.icons8.com/color/48/000000/sql.png) **SQL**
-- ![R](https://img.icons8.com/color/48/000000/r-project.png) **R** (en progreso)
 
 ### 📊 **Análisis y Visualización de Datos**
 - ![Pandas](https://img.icons8.com/color/48/000000/pandas.png) **Pandas**
@@ -33,9 +32,9 @@ Soy un apasionado de la **ciencia de datos** y la **programación**, con un enfo
 - [Repositorio](https://github.com/HebertL-dev/Megaline_Recomendacion-de-Planes-Moviles)  
 
 
-### 2. **Sure Tomorrow - Machine Learning en Seguros** 🔐  
-- Proyecto de machine learning para la identificación de clientes y predicción de beneficios de seguro, incluyendo técnicas de enmascaramiento de datos.  
-- [Repositorio](https://github.com/HebertL-dev/Sure-Tomorrow_Machine-Learning-en-Seguros-)  
+### 2. **Zuber - Insights sobre Viajes Compartidos en Chicago**  
+- Análisis de datos de viajes en taxi en Chicago, con enfoque en el impacto del clima en la duración de los viajes.  
+- [Repositorio](https://github.com/HebertL-dev/Zuber_Insights)
 
 
 ### 3. **Rusty Bargain - Car Price Prediction Model** 🚗  
