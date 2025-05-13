@@ -17,7 +17,7 @@ Soy un apasionado de la **ciencia de datos** y la **programación**, con un enfo
 - <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="Seaborn" width="40"/> **Seaborn**
 
 ### 🤖 **Machine Learning**
-- ![Scikit-Learn](https://img.icons8.com/color/48/000000/scikit-learn.png) **Scikit-Learn**
+- <img src="https://github.com/user-attachments/assets/8090a8ba-caff-4bb2-ad47-9867407e4b6e" alt="Scikit-Learn" width="40"/> **Scikit-Learn**
 
 ### 🛠️ **Otras Herramientas**
 - ![Git](https://img.icons8.com/color/48/000000/git.png) **Git**
