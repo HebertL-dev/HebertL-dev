@@ -21,7 +21,8 @@ Soy un apasionado de la **ciencia de datos** y la **programación**, con un enfo
 
 ### 🛠️ **Otras Herramientas**
 - ![Git](https://img.icons8.com/color/48/000000/git.png) **Git**
-- ![Jupyter](https://img.icons8.com/color/48/000000/jupyter.png) **Jupyter Notebook**
+- <img src="https://github.com/user-attachments/assets/9d7d6a0b-eb0f-47dc-b50c-91ab812f1f93" alt="Jupyter Notebook" width="40"/> **Jupyter Notebook**
+
 
 ---
 
