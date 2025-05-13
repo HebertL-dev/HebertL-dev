@@ -23,6 +23,22 @@ Soy un apasionado de la **ciencia de datos** y la **programación**, con un enfo
 - ![Git](https://img.icons8.com/color/48/000000/git.png) **Git**
 - <img src="https://github.com/user-attachments/assets/9d7d6a0b-eb0f-47dc-b50c-91ab812f1f93" alt="Jupyter Notebook" width="40"/> **Jupyter Notebook**
 
+---
+
+### 💡 **Tecnologías que manejo**
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" title="SQL"/>
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" title="Pandas"/>
+  <img src="https://github.com/user-attachments/assets/257a8638-0bdc-43ea-a870-0164889d94e5" width="40" alt="Matplotlib" title="Matplotlib"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="40" alt="Seaborn" title="Seaborn"/>
+  <img src="https://github.com/user-attachments/assets/8090a8ba-caff-4bb2-ad47-9867407e4b6e" width="40" alt="Scikit-Learn" title="Scikit-Learn"/>
+  <img src="https://github.com/user-attachments/assets/9d7d6a0b-eb0f-47dc-b50c-91ab812f1f93" width="40" alt="Jupyter Notebook" title="Jupyter Notebook"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" title="Excel"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Plotly-logo-01-square.png" width="40" alt="Plotly" title="Plotly"/>
+</p>
 
 ---
 
@@ -32,16 +48,13 @@ Soy un apasionado de la **ciencia de datos** y la **programación**, con un enfo
 - Desarrollo de un modelo de *machine learning* para recomendar el plan más adecuado entre dos opciones de planes móviles: Smart y Ultra.  
 - [Repositorio](https://github.com/HebertL-dev/Megaline_Recomendacion-de-Planes-Moviles)  
 
-
 ### 2. **Zuber - Insights sobre Viajes Compartidos en Chicago**  
 - Análisis de datos de viajes en taxi en Chicago, con enfoque en el impacto del clima en la duración de los viajes.  
 - [Repositorio](https://github.com/HebertL-dev/Zuber_Insights)
 
-
 ### 3. **Rusty Bargain - Car Price Prediction Model** 🚗  
 - Modelo de *machine learning* para predecir el valor de mercado de autos de segunda mano, basado en características como especificaciones del vehículo, kilometraje, marca y más.  
 - [Repositorio](https://github.com/HebertL-dev/RustyBargain)  
-
 
 ---
 
