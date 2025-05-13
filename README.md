@@ -13,7 +13,7 @@ Soy un apasionado de la **ciencia de datos** y la **programación**, con un enfo
 
 ### 📊 **Análisis y Visualización de Datos**
 - ![Pandas](https://img.icons8.com/color/48/000000/pandas.png) **Pandas**
-- ![Matplotlib](https://github.com/user-attachments/assets/257a8638-0bdc-43ea-a870-0164889d94e5) **Matplotlib**
+- <img src="https://github.com/user-attachments/assets/257a8638-0bdc-43ea-a870-0164889d94e5" alt="Matplotlib" width="40"/> **Matplotlib**
 - ![Seaborn](https://img.icons8.com/color/48/000000/seaborn.png) **Seaborn**
 
 ### 🤖 **Machine Learning**
