@@ -58,13 +58,6 @@ Construí un modelo de **machine learning** para estimar precios de vehículos u
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-![Hebert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HebertL-dev&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HebertL-dev&layout=compact&theme=default)
-
----
-
 ## 🌐 Conecta conmigo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/heberttoledo-dataanalyst/)
